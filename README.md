@@ -117,3 +117,6 @@ print("Camera released successfully!")
 - YOLOv8 output images
 - Screenshot of the final result
 - README file
+
+## Conclusion
+The experiment demonstrates how a laptop camera can be integrated with OpenCV and YOLOv8 to capture images and perform object detection. The detected objects are visualized using bounding boxes and labels.
